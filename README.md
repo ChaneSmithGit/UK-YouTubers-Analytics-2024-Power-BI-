@@ -1,5 +1,6 @@
-🇬🇧 🎥 Top UK YouTubers 2024 Engagement Matrix
-Dashboard Preview
+🎥 Top UK YouTubers 2024 Engagement Matrix
+![Dashboard Preview](YouTubers_Dashboard.PNG)
+
 
 🚨 1. The Business Problem & Origin Story
 Marketing executive teams and corporate brand managers struggle to maximize ROI when selecting influencer partnerships because they rely on surface-level vanity metrics. High subscriber counts frequently mask stagnant viewer engagement, unoptimized video production consistency, and declining audience retention rates. Relying on static listicles makes it impossible for companies to separate high-performing content engines from inefficient channels.
